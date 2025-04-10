@@ -17,7 +17,7 @@ segundos) cada vez que disminuya 1%.
 (1000 mili segundos) para indicar este mensaje.
 • Al acabarse la batería, indicar por pantalla “Batería agotada”.
  */
-package evPrimerBimestre;
+package Farias;
 import java.util.Scanner;
 public class ejercicio21 {
 public static void main(String[] args) throws InterruptedException {

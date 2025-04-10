@@ -1,4 +1,4 @@
-package evPrimerBimestre;
+package Hidalgo;
 
 import java.util.Scanner;
 

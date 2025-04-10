@@ -11,7 +11,7 @@ Si el valor ingresado es correcto, mostrar en pantalla que es un valor válido. 
 no lo es, mostrar en pantalla que es un valor incorrecto.
  */
 
- package evPrimerBimestre;
+ package Hidalgo;
 import java.util.Scanner;
 public class ejercicio13 {
 
